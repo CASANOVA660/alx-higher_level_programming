@@ -1,4 +1,3 @@
 #!/usr/bin/python3
-for i in range(97, 123):
-    char = chr(i)
-    print(char)
+for c in range(ord('a'), ord('z') + 1):
+    print("{:c}".format(c), end="")
