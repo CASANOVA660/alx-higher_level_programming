@@ -52,7 +52,7 @@ If you have suggestions for improvements or encounter any issues with the mini-p
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the ALX License - see the ALX websie for details.
 
 ## Acknowledgements
 
