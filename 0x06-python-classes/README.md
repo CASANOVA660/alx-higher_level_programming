@@ -45,15 +45,13 @@ To get started with this project, you can clone the repository to your local mac
 
 ```bash
 git clone https://github.com/CASANOVA666/python-classes-and-objects.git
-
-
-
+```
 After cloning the repository, you can explore the Python files using any text editor or Python IDE of your choice. Feel free to modify and experiment with the code to deepen your understanding of OOP concepts in Python.
-
 
 ## Contributions
 
 Contributions to this project are welcome! If you have any suggestions, improvements, or additional examples related to OOP in Python, feel free to submit a pull request. Together, we can make this project a valuable resource for the Python community.
 
 ## License
+
 This project is licensed under the ALX License. See the LICENSE file for details.
