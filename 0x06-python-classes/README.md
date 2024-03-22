@@ -46,7 +46,10 @@ To get started with this project, you can clone the repository to your local mac
 ```bash
 git clone https://github.com/CASANOVA666/python-classes-and-objects.git
 
+
+
 After cloning the repository, you can explore the Python files using any text editor or Python IDE of your choice. Feel free to modify and experiment with the code to deepen your understanding of OOP concepts in Python.
+
 
 ## Contributions
 
